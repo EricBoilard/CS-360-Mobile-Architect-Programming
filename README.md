@@ -1,11 +1,14 @@
 # CS-360-Mobile-Architect-Programming
-Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
 The requirements for the app were that a user must be able to register and login, use CRUD functions of an SQLite database to manipulate data on the app, request or deny permissions, and also recieve notifications for progress updates. This app was designed to track the weight progress of individuals and the user needs were fairly simple in that the user needed to be able to accomplish parts of the requirements like logins and registering but also able to manipulate data in there own database for their specific login.
 
-What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
-
 A login, register, main, and permissions screen were all used to support the user needs. The design was kept simple with two colors and following a consistent theme throughout the app. I think my designs were successful because they were simple and attractive while allowing ease of use by the user. 
+
+![Screenshot 2022-04-15 125215](https://user-images.githubusercontent.com/73099447/163598988-dc811932-7ace-482e-9aa2-911f6ce8abd2.png)
+![Screenshot 2022-04-15 125245](https://user-images.githubusercontent.com/73099447/163599014-434ca969-288d-40b6-8bea-4860b5a11ff8.png)
+![Screenshot 2022-04-15 125406](https://user-images.githubusercontent.com/73099447/163599035-c44b9b9f-93ab-466d-8a3b-5eda28b48695.png)
+![Screenshot 2022-04-15 125430](https://user-images.githubusercontent.com/73099447/163599054-2d22a42e-848a-4deb-b4b8-4cf3b88161aa.png)
+![Screenshot 2022-04-15 125601](https://user-images.githubusercontent.com/73099447/163599068-261e4eeb-0bbc-4b4f-afc2-f823cf0ee4d5.png)
 
 How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
 
